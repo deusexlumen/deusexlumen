@@ -1,8 +1,17 @@
 # Hey, I'm deusexlumen
 
-Self-taught developer working at the intersection of **LLM engineering**, **full-stack TypeScript**, and **creative technology**. No CS degree — instead 19 shipped projects, 3 live products, and a track record of taking ideas from concept to tested release.
+Self-taught developer working at the intersection of **LLM engineering**, **full-stack TypeScript**, and **creative technology** — and I ship **client websites** for local businesses. No CS degree — instead 19 shipped projects, 4 live products, and a track record of taking ideas from concept to tested release.
 
 I orchestrate AI to build fast — and I own every architectural decision, every test, and every release myself.
+
+## Client Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [domiart-website](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live in production.** | Astro 5, Vanilla JS, GSAP, Vercel |
+| [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live in production.** | HTML/CSS/JS, GSAP, Vercel |
+
+*Individuelle Websites für Handwerk & Mittelstand — performant, SEO-stark, DSGVO-sicher.*
 
 ## Flagship Work
 
@@ -15,10 +24,22 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 | [Dame-Card-Game](https://github.com/deusexlumen/Dame-Card-Game) | Fully tested multiplayer card game with three-tier AI opponent. **Live demo**, 106 unit tests, E2E + CI/CD. | React 19, TypeScript strict, Playwright, PWA |
 | DR. NULL *(private, on request)* | Production Twitch chatbot orchestrating two LLMs with RAG memory (Qdrant) and a Tauri desktop dashboard. | Rust, tokio, Gemini, Qdrant, Tauri 2 |
 
+## More Projects
+
+- [CodeWhisper](https://github.com/deusexlumen/codewhisper) — voice-controlled development assistant: real-time speech via Gemini Live API, two reasoning roles, silent critic in the background *(Python, Flet)*
+- [LUMEN LENS 3](https://github.com/deusexlumen/lumen-lens-3) — universal context engine: screenshots, OCR, translation, TTS, live voice session — all in a single Python file
+- [Synthesis Engine](https://github.com/deusexlumen/synthesis-engine-hd) — full-stack app cross-correlating Human Design, Gene Keys & numerology with AI support *(React 19, TypeScript, Node 20, Vite)*
+- [YouTube ScriptCat](https://github.com/deusexlumen/YoutubeScriptCat) — YouTube homepage userscript suite, v8.1 *(JavaScript)*
+- [Wordle Solver Pro](https://github.com/deusexlumen/wordle-solver-pro) — mathematical puzzle assistant for Wordle, Quordle, Sudoku & Nonograms with Gemini OCR *(TypeScript)*
+- [K.I.M.I. — The Wrapped Intention](https://github.com/deusexlumen/kimi-wrapped-intention) — album release site: 13 tracks + bonus, lyrics, artworks, press kit
+- [BUXE_OS](https://github.com/deusexlumen/buxe-os) — heavily personalized PowerShell profile system: arcade games, casino suite, RPG systems *(Beta)*
+- [KID Research Program](https://github.com/deusexlumen/KID-Research-Program) — heuristic research program on information condensation, assembly complexity, and the emergence of cognition (v3.0)
+
 ## What I bring
 
 - **LLM Engineering** — multi-provider orchestration, RAG, function calling, structured output, TTS/live audio, prompt systems that survive production
 - **Full-Stack TypeScript** — React 19, strict TS, serverless backends (Cloudflare Workers), CI/CD, real test pyramids
+- **Client Websites** — Astro/static builds, local SEO, conversion-focused design, GDPR-compliant by default
 - **Systems Rust** — async, FFI, cryptography, desktop apps (Tauri)
 - **Creative Tech** — WebGL/WebGPU shaders, scroll-driven narrative experiences, audio-reactive visuals
 
@@ -26,4 +47,4 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 
 I build with AI agents as force multipliers, not autopilots: specs before code, invariant-driven testing, conventional commits, honest READMEs. If you want someone who ships — let's talk.
 
-📫 Open for freelance projects (AI automation, creator tooling, web experiences) and junior/mid roles in LLM engineering or full-stack development.
+📫 Open for freelance projects (AI automation, creator tooling, **websites for local businesses**) and junior/mid roles in LLM engineering or full-stack development.
