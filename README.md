@@ -10,6 +10,7 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 |---|---|---|
 | [domiart-website](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live in production.** | Astro 5, Vanilla JS, GSAP, Vercel |
 | [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live in production.** | HTML/CSS/JS, GSAP, Vercel |
+| [domiart-moresa.de](https://domiart-moresa.de) | Website + go-live package for a Dortmund trades business — Google Search Console & Bing verified, sitemap indexed, GDPR audit clean (0 external services), documented handover report. **Live in production.** | Static HTML/CSS/JS, IONOS DNS, SEO-Setup |
 
 *Individuelle Websites für Handwerk & Mittelstand — performant, SEO-stark, DSGVO-sicher.*
 
@@ -49,10 +50,10 @@ I build with AI agents as force multipliers, not autopilots: specs before code, 
 
 ## Work with me
 
-**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — two of them are live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
+**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — three of them are live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
 
 Typical engagement: short intro call → fixed quote → build → launch → handover docs. Remote-friendly, based in Dortmund (CET).
 
-📫 **Get in touch:** open an issue or discussion on any of my repos — I read everything. *(E-Mail folgt)*
+📫 **Get in touch: [deusexlumen@airmail.cc](mailto:deusexlumen@airmail.cc)** — I read everything, usually within a day.
 
 Open for freelance projects and junior/mid roles in LLM engineering or full-stack development.
