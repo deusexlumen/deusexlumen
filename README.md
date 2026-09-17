@@ -45,6 +45,14 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 
 ## How I work
 
-I build with AI agents as force multipliers, not autopilots: specs before code, invariant-driven testing, conventional commits, honest READMEs. If you want someone who ships — let's talk.
+I build with AI agents as force multipliers, not autopilots: specs before code, invariant-driven testing, conventional commits, honest READMEs. You get clean handover docs and a site you can actually maintain — no lock-in.
 
-📫 Open for freelance projects (AI automation, creator tooling, **websites for local businesses**) and junior/mid roles in LLM engineering or full-stack development.
+## Work with me
+
+**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — two of them are live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
+
+Typical engagement: short intro call → fixed quote → build → launch → handover docs. Remote-friendly, based in Dortmund (CET).
+
+📫 **Get in touch:** open an issue or discussion on any of my repos — I read everything. *(E-Mail folgt)*
+
+Open for freelance projects and junior/mid roles in LLM engineering or full-stack development.
