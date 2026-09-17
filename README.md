@@ -1,16 +1,29 @@
-# Hey, I'm deusexlumen
+<!-- Profil-README von deusexlumen -->
 
-Self-taught developer working at the intersection of **LLM engineering**, **full-stack TypeScript**, and **creative technology** — and I ship **client websites** for local businesses. No CS degree — instead 19 shipped projects, 4 live products, and a track record of taking ideas from concept to tested release.
+<div align="center">
+
+# deusexlumen
+
+**Self-taught developer — LLM engineering · Full-Stack TypeScript · Client websites for local businesses**
 
 I orchestrate AI to build fast — and I own every architectural decision, every test, and every release myself.
+No CS degree. Instead: **19 shipped projects, 4 live products**, and a track record of taking ideas from concept to tested release.
 
-## Client Work
+[![Websites for local businesses](https://img.shields.io/badge/Focus-Websites%20f%C3%BCr%20Handwerk%20%26%20Mittelstand-1a1a2e?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
+[![Based in Dortmund](https://img.shields.io/badge/Dortmund-CET-1a1a2e?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
+[![Mail](https://img.shields.io/badge/Mail-deusexlumen%40airmail.cc-8A2BE2?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
+
+</div>
+
+---
+
+## Client Work — live in production
 
 | Project | What it is | Stack |
 |---|---|---|
-| [domiart-website](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live in production.** | Astro 5, Vanilla JS, GSAP, Vercel |
-| [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live in production.** | HTML/CSS/JS, GSAP, Vercel |
-| [domiart-moresa.de](https://domiart-moresa.de) | Website + go-live package for a Dortmund trades business — Google Search Console & Bing verified, sitemap indexed, GDPR audit clean (0 external services), documented handover report. **Live in production.** | Static HTML/CSS/JS, IONOS DNS, SEO-Setup |
+| [domiart-website](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live.** | Astro 5, Vanilla JS, GSAP, Vercel |
+| [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live.** | HTML/CSS/JS, GSAP, Vercel |
+| [domiart-moresa.de](https://domiart-moresa.de) | Website + go-live package for a Dortmund trades business — Search Console & Bing verified, sitemap indexed, GDPR audit clean (0 external services), documented handover. **Live.** | Static HTML/CSS/JS, IONOS DNS, SEO-Setup |
 
 *Individuelle Websites für Handwerk & Mittelstand — performant, SEO-stark, DSGVO-sicher.*
 
@@ -19,7 +32,7 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 | Project | What it is | Stack |
 |---|---|---|
 | [AetherClock](https://github.com/deusexlumen/AetherClock) | AI alarm clock PWA — Gemini-curated spoken briefings, serverless web-push backend, WebGL themes. **Live in production.** | TypeScript, React 19, Cloudflare Workers/KV, Babylon.js |
-| [AXIOM](https://github.com/deusexlumen/AXIOM) | Agent-native framework: deterministic invariants, self-healing pipelines, and MCP tooling for steering LLM coding agents. 208 green unit tests. | TypeScript, Node 22, MCP SDK, Drizzle, Hono |
+| [AXIOM](https://github.com/deusexlumen/AXIOM) | Agent-native framework: deterministic invariants, self-healing pipelines, MCP tooling for steering LLM coding agents. 208 green unit tests. | TypeScript, Node 22, MCP SDK, Drizzle, Hono |
 | [audio-visualizer-pro](https://github.com/deusexlumen/audio-visualizer-pro) | GPU-accelerated music-video renderer with HDR pipeline and AI assistant. Installable product, 280+ tests, full release pipeline. | Python, ModernGL/GLSL, PyQt6, FFmpeg, Gemini API |
 | [KASSIBER](https://github.com/deusexlumen/KASSIBER) | Post-quantum encrypted overlay messenger for Android — NIST FIPS 203/204 primitives, ratchet protocol, documented threat model. | Rust, ML-KEM-768, UniFFI, Kotlin |
 | [Dame-Card-Game](https://github.com/deusexlumen/Dame-Card-Game) | Fully tested multiplayer card game with three-tier AI opponent. **Live demo**, 106 unit tests, E2E + CI/CD. | React 19, TypeScript strict, Playwright, PWA |
@@ -30,6 +43,7 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 - [CodeWhisper](https://github.com/deusexlumen/codewhisper) — voice-controlled development assistant: real-time speech via Gemini Live API, two reasoning roles, silent critic in the background *(Python, Flet)*
 - [LUMEN LENS 3](https://github.com/deusexlumen/lumen-lens-3) — universal context engine: screenshots, OCR, translation, TTS, live voice session — all in a single Python file
 - [Synthesis Engine](https://github.com/deusexlumen/synthesis-engine-hd) — full-stack app cross-correlating Human Design, Gene Keys & numerology with AI support *(React 19, TypeScript, Node 20, Vite)*
+- [Truthys Times](https://github.com/deusexlumen/truthys-times) — autonomously generated daily newspaper, built on GitHub Actions + Pages *(HTML, machine-interface design)*
 - [YouTube ScriptCat](https://github.com/deusexlumen/YoutubeScriptCat) — YouTube homepage userscript suite, v8.1 *(JavaScript)*
 - [Wordle Solver Pro](https://github.com/deusexlumen/wordle-solver-pro) — mathematical puzzle assistant for Wordle, Quordle, Sudoku & Nonograms with Gemini OCR *(TypeScript)*
 - [K.I.M.I. — The Wrapped Intention](https://github.com/deusexlumen/kimi-wrapped-intention) — album release site: 13 tracks + bonus, lyrics, artworks, press kit
@@ -46,7 +60,8 @@ I orchestrate AI to build fast — and I own every architectural decision, every
 
 ## How I work
 
-I build with AI agents as force multipliers, not autopilots: specs before code, invariant-driven testing, conventional commits, honest READMEs. You get clean handover docs and a site you can actually maintain — no lock-in.
+Specs before code. Invariant-driven testing. Conventional commits. Honest READMEs.
+I build with AI agents as force multipliers, not autopilots — you get clean handover docs and a site you can actually maintain. No lock-in.
 
 ## Work with me
 
