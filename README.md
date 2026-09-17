@@ -21,9 +21,8 @@ No CS degree. Instead: **19 shipped projects, 4 live products**, and a track rec
 
 | Project | What it is | Stack |
 |---|---|---|
-| [domiart-website](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live.** | Astro 5, Vanilla JS, GSAP, Vercel |
+| [DOMIART](https://domiart-moresa.de) · [repo](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live at [domiart-moresa.de](https://domiart-moresa.de)** — domain at IONOS, hosted on Vercel. | Astro 5, Vanilla JS, GSAP, Vercel + IONOS |
 | [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live.** | HTML/CSS/JS, GSAP, Vercel |
-| [domiart-moresa.de](https://domiart-moresa.de) | Website + go-live package for a Dortmund trades business — Search Console & Bing verified, sitemap indexed, GDPR audit clean (0 external services), documented handover. **Live.** | Static HTML/CSS/JS, IONOS DNS, SEO-Setup |
 
 *Individuelle Websites für Handwerk & Mittelstand — performant, SEO-stark, DSGVO-sicher.*
 
@@ -65,7 +64,7 @@ I build with AI agents as force multipliers, not autopilots — you get clean ha
 
 ## Work with me
 
-**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — three of them are live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
+**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
 
 Typical engagement: short intro call → fixed quote → build → launch → handover docs. Remote-friendly, based in Dortmund (CET).
 
