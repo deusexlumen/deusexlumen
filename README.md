@@ -1,73 +1,57 @@
-<!-- Profil-README von deusexlumen -->
+# Deus Ex Lumen
 
-<div align="center">
+**Web experiences · AI systems · creative technology**
 
-# deusexlumen
+I build useful software from ambitious ideas — from websites for local businesses to AI tools, games and audiovisual experiments. I work with AI agents throughout development and take responsibility for the architecture, testing and delivery.
 
-**Self-taught developer — LLM engineering · Full-Stack TypeScript · Client websites for local businesses**
-
-I orchestrate AI to build fast — and I own every architectural decision, every test, and every release myself.
-No CS degree. Instead: **19 shipped projects, 4 live products**, and a track record of taking ideas from concept to tested release.
-
-[![Websites for local businesses](https://img.shields.io/badge/Focus-Websites%20f%C3%BCr%20Handwerk%20%26%20Mittelstand-1a1a2e?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
-[![Based in Dortmund](https://img.shields.io/badge/Dortmund-CET-1a1a2e?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
-[![Mail](https://img.shields.io/badge/Mail-deusexlumen%40airmail.cc-8A2BE2?style=for-the-badge)](mailto:deusexlumen@airmail.cc)
-
-</div>
+[Explore my work](#selected-work) · [Get in touch](mailto:deusexlumen@airmail.cc) · Dortmund, Germany
 
 ---
 
-## Client Work — live in production
+## Selected work
 
-| Project | What it is | Stack |
-|---|---|---|
-| [DOMIART](https://domiart-moresa.de) · [repo](https://github.com/deusexlumen/domiart-website) | Marketing site for a Dortmund general contractor — static Astro build, local-SEO landing pages per trade (Badsanierung, Trockenbau, …), WhatsApp CTA. **Live at [domiart-moresa.de](https://domiart-moresa.de)** — domain at IONOS, hosted on Vercel. | Astro 5, Vanilla JS, GSAP, Vercel + IONOS |
-| [firmenwebsite-samu](https://github.com/deusexlumen/firmenwebsite-samu) | Single-file website for a German craft business — GSAP scroll choreography with an effect budget for weak devices, GDPR-hardened, WCAG AA. **Live.** | HTML/CSS/JS, GSAP, Vercel |
+### Web & client projects
 
-*Individuelle Websites für Handwerk & Mittelstand — performant, SEO-stark, DSGVO-sicher.*
+**[DOMIART](https://domiart-moresa.de)** · [Repository](https://github.com/deusexlumen/domiart-website)  
+A marketing site for a Dortmund construction business, with local landing pages and a fast static build.  
+`Astro` `JavaScript` `GSAP`
 
-## Flagship Work
+**[Firmenwebsite Samu](https://github.com/deusexlumen/firmenwebsite-samu)**  
+A single-file website for a craft business, with scroll animation and a performance budget for weaker devices.  
+`HTML` `CSS` `JavaScript` `GSAP`
 
-| Project | What it is | Stack |
-|---|---|---|
-| [AetherClock](https://github.com/deusexlumen/AetherClock) | AI alarm clock PWA — Gemini-curated spoken briefings, serverless web-push backend, WebGL themes. **Live in production.** | TypeScript, React 19, Cloudflare Workers/KV, Babylon.js |
-| [AXIOM](https://github.com/deusexlumen/AXIOM) | Agent-native framework: deterministic invariants, self-healing pipelines, MCP tooling for steering LLM coding agents. 208 green unit tests. | TypeScript, Node 22, MCP SDK, Drizzle, Hono |
-| [audio-visualizer-pro](https://github.com/deusexlumen/audio-visualizer-pro) | GPU-accelerated music-video renderer with HDR pipeline and AI assistant. Installable product, 280+ tests, full release pipeline. | Python, ModernGL/GLSL, PyQt6, FFmpeg, Gemini API |
-| [KASSIBER](https://github.com/deusexlumen/KASSIBER) | Post-quantum encrypted overlay messenger for Android — NIST FIPS 203/204 primitives, ratchet protocol, documented threat model. | Rust, ML-KEM-768, UniFFI, Kotlin |
-| [Dame-Card-Game](https://github.com/deusexlumen/Dame-Card-Game) | Fully tested multiplayer card game with three-tier AI opponent. **Live demo**, 106 unit tests, E2E + CI/CD. | React 19, TypeScript strict, Playwright, PWA |
-| DR. NULL *(private, on request)* | Production Twitch chatbot orchestrating two LLMs with RAG memory (Qdrant) and a Tauri desktop dashboard. | Rust, tokio, Gemini, Qdrant, Tauri 2 |
+### AI & developer tools
 
-## More Projects
+**[AXIOM](https://github.com/deusexlumen/AXIOM)**  
+An agent-native framework for guiding coding agents with deterministic checks, pipelines and MCP tooling.  
+`TypeScript` `Node.js` `MCP`
 
-- [CodeWhisper](https://github.com/deusexlumen/codewhisper) — voice-controlled development assistant: real-time speech via Gemini Live API, two reasoning roles, silent critic in the background *(Python, Flet)*
-- [LUMEN LENS 3](https://github.com/deusexlumen/lumen-lens-3) — universal context engine: screenshots, OCR, translation, TTS, live voice session — all in a single Python file
-- [Synthesis Engine](https://github.com/deusexlumen/synthesis-engine-hd) — full-stack app cross-correlating Human Design, Gene Keys & numerology with AI support *(React 19, TypeScript, Node 20, Vite)*
-- [Truthys Times](https://github.com/deusexlumen/truthys-times) — autonomously generated daily newspaper, built on GitHub Actions + Pages *(HTML, machine-interface design)*
-- [YouTube ScriptCat](https://github.com/deusexlumen/YoutubeScriptCat) — YouTube homepage userscript suite, v8.1 *(JavaScript)*
-- [Wordle Solver Pro](https://github.com/deusexlumen/wordle-solver-pro) — mathematical puzzle assistant for Wordle, Quordle, Sudoku & Nonograms with Gemini OCR *(TypeScript)*
-- [K.I.M.I. — The Wrapped Intention](https://github.com/deusexlumen/kimi-wrapped-intention) — album release site: 13 tracks + bonus, lyrics, artworks, press kit
-- [BUXE_OS](https://github.com/deusexlumen/buxe-os) — heavily personalized PowerShell profile system: arcade games, casino suite, RPG systems *(Beta)*
-- [KID Research Program](https://github.com/deusexlumen/KID-Research-Program) — heuristic research program on information condensation, assembly complexity, and the emergence of cognition (v3.0)
+**[CodeWhisper](https://github.com/deusexlumen/codewhisper)**  
+A voice-based AI sparring partner for ideas and code, using Gemini Live, reasoning roles and background critique.  
+`Python` `Gemini Live`
 
-## What I bring
+### Creative technology
 
-- **LLM Engineering** — multi-provider orchestration, RAG, function calling, structured output, TTS/live audio, prompt systems that survive production
-- **Full-Stack TypeScript** — React 19, strict TS, serverless backends (Cloudflare Workers), CI/CD, real test pyramids
-- **Client Websites** — Astro/static builds, local SEO, conversion-focused design, GDPR-compliant by default
-- **Systems Rust** — async, FFI, cryptography, desktop apps (Tauri)
-- **Creative Tech** — WebGL/WebGPU shaders, scroll-driven narrative experiences, audio-reactive visuals
+**[Audio Visualizer Pro](https://github.com/deusexlumen/audio-visualizer-pro)**  
+A GPU-accelerated music-video renderer with an HDR pipeline and AI-assisted tools.  
+`Python` `OpenGL` `FFmpeg`
+
+**[Latte](https://github.com/deusexlumen/latte-app)** · [Play in browser](https://deusexlumen.github.io/latte-app/)  
+An early Godot game prototype set inside an absurd bureaucracy. It brings together Lobby-Loop, the card game DAME and other connected spaces.  
+`Godot` `GDScript` `Game design`
+
+**[K.I.M.I. — ERROR LOOP](https://github.com/deusexlumen/kimi-error-loop)** · [Release site](https://deusexlumen.github.io/kimi-error-loop/)  
+An audiovisual release experience built around music, typography and an interactive visual system.  
+`WebGL` `JavaScript` `Creative direction`
 
 ## How I work
 
-Specs before code. Invariant-driven testing. Conventional commits. Honest READMEs.
-I build with AI agents as force multipliers, not autopilots — you get clean handover docs and a site you can actually maintain. No lock-in.
+I start with the problem and the constraints, make the architecture explicit, and use tests and documentation to keep the result understandable. AI is part of my workflow; decisions and delivery remain my responsibility.
+
+**Areas:** web development · LLM integration and automation · TypeScript and Python · creative coding · Rust
 
 ## Work with me
 
-**Websites for local businesses** are my main freelance focus right now: fast, SEO-strong, GDPR-compliant sites with real results — live in production (see *Client Work* above). I also take on **AI automation** and **creator tooling** projects.
+I’m open to freelance projects in websites for local businesses, AI automation and creator tools, as well as roles in full-stack development and LLM engineering.
 
-Typical engagement: short intro call → fixed quote → build → launch → handover docs. Remote-friendly, based in Dortmund (CET).
-
-📫 **Get in touch: [deusexlumen@airmail.cc](mailto:deusexlumen@airmail.cc)** — I read everything, usually within a day.
-
-Open for freelance projects and junior/mid roles in LLM engineering or full-stack development.
+**[deusexlumen@airmail.cc](mailto:deusexlumen@airmail.cc)** · Dortmund / remote
