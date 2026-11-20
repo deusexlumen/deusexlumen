@@ -32,6 +32,10 @@ A voice-based AI sparring partner for ideas and code, using Gemini Live, reasoni
 
 ### Creative technology
 
+**[K.I.M.I. — The Wrapped Intention](https://kimi-wrapped-intention.pages.dev/)** · [Album repository](https://github.com/deusexlumen/kimi-wrapped-intention) · [Press / Presse](https://github.com/deusexlumen/kimi-wrapped-intention/blob/main/PRESS.md)  
+Independent AI-assisted music and audiovisual art project, with an original artist persona and an interactive 13-track debut album plus bonus.
+
+
 **[Audio Visualizer Pro](https://github.com/deusexlumen/audio-visualizer-pro)**  
 A GPU-accelerated music-video renderer with an HDR pipeline and AI-assisted tools.  
 `Python` `OpenGL` `FFmpeg`
